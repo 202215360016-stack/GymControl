@@ -57,8 +57,8 @@
                     android:layout_margin="8dp"
                     app:cardCornerRadius="16dp">
                     <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:gravity="center" android:orientation="vertical" android:padding="16dp">
-                        <ImageView android:layout_width="40dp" android:layout_height="40dp" android:src="@android:drawable/ic_menu_my_calendar" app:tint="@color/primary" />
-                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:text="Alunos" android:textStyle="bold" />
+                        <ImageView android:layout_width="48dp" android:layout_height="48dp" android:src="@android:drawable/ic_menu_my_calendar" app:tint="@color/primary" />
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12dp" android:text="Alunos" android:textStyle="bold" android:textColor="@color/onSurface" />
                     </LinearLayout>
                 </com.google.android.material.card.MaterialCardView>
 
@@ -73,8 +73,8 @@
                     android:layout_margin="8dp"
                     app:cardCornerRadius="16dp">
                     <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:gravity="center" android:orientation="vertical" android:padding="16dp">
-                        <ImageView android:layout_width="40dp" android:layout_height="40dp" android:src="@android:drawable/ic_menu_edit" app:tint="@color/primary" />
-                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:text="Treinos" android:textStyle="bold" />
+                        <ImageView android:layout_width="48dp" android:layout_height="48dp" android:src="@android:drawable/ic_menu_edit" app:tint="@color/primary" />
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12dp" android:text="Treinos" android:textStyle="bold" android:textColor="@color/onSurface" />
                     </LinearLayout>
                 </com.google.android.material.card.MaterialCardView>
 
@@ -89,8 +89,8 @@
                     android:layout_margin="8dp"
                     app:cardCornerRadius="16dp">
                     <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:gravity="center" android:orientation="vertical" android:padding="16dp">
-                        <ImageView android:layout_width="40dp" android:layout_height="40dp" android:src="@android:drawable/ic_menu_view" app:tint="@color/primary" />
-                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:text="Finanças" android:textStyle="bold" />
+                        <ImageView android:layout_width="48dp" android:layout_height="48dp" android:src="@android:drawable/ic_menu_view" app:tint="@color/primary" />
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12dp" android:text="Finanças" android:textStyle="bold" android:textColor="@color/onSurface" />
                     </LinearLayout>
                 </com.google.android.material.card.MaterialCardView>
 
@@ -105,8 +105,8 @@
                     android:layout_margin="8dp"
                     app:cardCornerRadius="16dp">
                     <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:gravity="center" android:orientation="vertical" android:padding="16dp">
-                        <ImageView android:layout_width="40dp" android:layout_height="40dp" android:src="@android:drawable/ic_menu_add" app:tint="@color/primary" />
-                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:text="Exercícios" android:textStyle="bold" />
+                        <ImageView android:layout_width="48dp" android:layout_height="48dp" android:src="@android:drawable/ic_menu_add" app:tint="@color/primary" />
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12dp" android:text="Exercícios" android:textStyle="bold" android:textColor="@color/onSurface" />
                     </LinearLayout>
                 </com.google.android.material.card.MaterialCardView>
 
@@ -121,8 +121,8 @@
                     android:layout_margin="8dp"
                     app:cardCornerRadius="16dp">
                     <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:gravity="center" android:orientation="vertical" android:padding="16dp">
-                        <ImageView android:layout_width="40dp" android:layout_height="40dp" android:src="@android:drawable/ic_menu_info_details" app:tint="@color/primary" />
-                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:text="Evolução" android:textStyle="bold" />
+                        <ImageView android:layout_width="48dp" android:layout_height="48dp" android:src="@android:drawable/ic_menu_info_details" app:tint="@color/primary" />
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12dp" android:text="Evolução" android:textStyle="bold" android:textColor="@color/onSurface" />
                     </LinearLayout>
                 </com.google.android.material.card.MaterialCardView>
 
@@ -137,8 +137,8 @@
                     android:layout_margin="8dp"
                     app:cardCornerRadius="16dp">
                     <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:gravity="center" android:orientation="vertical" android:padding="16dp">
-                        <ImageView android:layout_width="40dp" android:layout_height="40dp" android:src="@android:drawable/ic_menu_preferences" app:tint="@color/primary" />
-                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:text="Opções" android:textStyle="bold" />
+                        <ImageView android:layout_width="48dp" android:layout_height="48dp" android:src="@android:drawable/ic_menu_preferences" app:tint="@color/primary" />
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12dp" android:text="Opções" android:textStyle="bold" android:textColor="@color/onSurface" />
                     </LinearLayout>
                 </com.google.android.material.card.MaterialCardView>
 
