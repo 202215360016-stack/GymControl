@@ -1,6 +1,18 @@
-
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-<color name="bluePrimary">#1565C0</color>
-<color name="blueDark">#0D47A1</color>
-<color name="blueBackground">#1976D2</color>
+    <color name="primary">#0D47A1</color>
+    <color name="primaryContainer">#D1E4FF</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="secondary">#3F5F91</color>
+    <color name="tertiary">#535F2B</color>
+    <color name="error">#BA1A1A</color>
+    <color name="outline">#73777F</color>
+    <color name="surface">#F9F9FF</color>
+    <color name="onSurface">#191C20</color>
+    <color name="onSurfaceVariant">#43474E</color>
+    
+    <!-- Cores Antigas para Compatibilidade -->
+    <color name="bluePrimary">#1565C0</color>
+    <color name="blueDark">#0D47A1</color>
+    <color name="blueBackground">#1976D2</color>
 </resources>
