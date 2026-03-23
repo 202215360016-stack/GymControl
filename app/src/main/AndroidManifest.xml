@@ -20,6 +20,20 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".LoginActivity" android:exported="true" />
+        <activity android:name=".RegisterActivity" android:exported="true" />
+        <activity android:name=".DashboardActivity" android:exported="true" />
+        <activity android:name=".AlunosActivity" android:exported="true" />
+        <activity android:name=".CadastroAlunoActivity" android:exported="true" />
+        <activity android:name=".ConfiguracoesActivity" android:exported="true" />
+        <activity android:name=".EvolucaoActivity" android:exported="true" />
+        <activity android:name=".ExerciciosActivity" android:exported="true" />
+        <activity android:name=".HistoricoTreinoActivity" android:exported="true" />
+        <activity android:name=".InstrutorActivity" android:exported="true" />
+        <activity android:name=".MensalidadeActivity" android:exported="true" />
+        <activity android:name=".MontarTreinoActivity" android:exported="true" />
+        <activity android:name=".PagamentosActivity" android:exported="true" />
+        <activity android:name=".TreinosActivity" android:exported="true" />
     </application>
 
 </manifest>

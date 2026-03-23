@@ -21,5 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "GymControl"
 include(":app")
-include(":app")
  

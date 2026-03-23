@@ -1,5 +1,5 @@
 
-package com.example.gymcontroltcc;
+package com.example.gymcontrol;
 
 public class Treino {
     public int id;

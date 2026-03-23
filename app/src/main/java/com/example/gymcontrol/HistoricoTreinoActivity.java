@@ -1,19 +1,19 @@
 
-package com.example.gymcontroltcc;
+package com.example.gymcontrol;
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 
 /**
- * TreinosActivity
+ * HistoricoTreinoActivity
  * Tela do sistema de academia.
  * Código organizado e comentado para facilitar manutenção.
  */
-public class TreinosActivity extends AppCompatActivity {
+public class HistoricoTreinoActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_treinos);
+        setContentView(R.layout.activity_historicotreino);
     }
 }
