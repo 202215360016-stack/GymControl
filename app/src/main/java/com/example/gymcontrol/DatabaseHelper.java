@@ -45,6 +45,15 @@ public class DatabaseHelper extends SQLiteOpenHelper{
         return valido;
     }
 
+    public boolean cadastrarUsuario(String email, String senha) {
+        SQLiteDatabase db = this.getWritableDatabase();
+        android.content.ContentValues values = new android.content.ContentValues();
+        values.put("email", email);
+        values.put("senha", senha);
+        long result = db.insert("usuarios", null, values);
+        return result != -1;
+    }
+
     @Override
     public void onUpgrade(SQLiteDatabase db,int oldVersion,int newVersion){
         db.execSQL("DROP TABLE IF EXISTS usuarios");
